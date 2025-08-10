@@ -31,11 +31,11 @@ model = joblib.load("eligibility_model.pkl")
 encoders = joblib.load("label_encoders.pkl")
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAcKQM2cEqbO2ve4-eDj9IBap2zDxgYA28")
+genai.configure(api_key="")
 
 # Pinata Configuration
-PINATA_API_KEY = "32ec36acb17859795347"
-PINATA_SECRET_KEY = "3ad5126b238e0f3daf92d2bbe5ba10aac942f1a50af1cebe80788b0827e9051f"
+PINATA_API_KEY = ""
+PINATA_SECRET_KEY = ""
 PINATA_HEADERS = {
     "pinata_api_key": PINATA_API_KEY,
     "pinata_secret_api_key": PINATA_SECRET_KEY
