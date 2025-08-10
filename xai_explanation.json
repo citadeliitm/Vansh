@@ -1,0 +1,1 @@
+{"feature_names": ["age", "caste", "income", "land_ownership", "housing_status"], "shap_values": [0.030833395934391754, -0.030833395934391723], "base_value": [0.7963750000000003, 0.2036249999999999]}

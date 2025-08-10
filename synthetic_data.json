@@ -1,0 +1,1004 @@
+{
+  "applicants": [
+    {
+      "aadhaar": 541542775256,
+      "name": "Arthur Morgan",
+      "age": 22,
+      "caste": "SC",
+      "income": 35384,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 236695590236,
+      "name": "Megan Rice",
+      "age": 68,
+      "caste": "OBC",
+      "income": 87906,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 332388263295,
+      "name": "Cassidy Carroll",
+      "age": 21,
+      "caste": "SC",
+      "income": 41237,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 801529986822,
+      "name": "Brian Conley",
+      "age": 76,
+      "caste": "ST",
+      "income": 42970,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 416418731620,
+      "name": "Ana Cole",
+      "age": 24,
+      "caste": "SC",
+      "income": 66692,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 303289588961,
+      "name": "Jonathan Martin",
+      "age": 26,
+      "caste": "SC",
+      "income": 67071,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 741365975183,
+      "name": "Richard Bradley",
+      "age": 43,
+      "caste": "OBC",
+      "income": 38030,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 334042253572,
+      "name": "Robyn Wise",
+      "age": 30,
+      "caste": "SC",
+      "income": 61189,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 960984368349,
+      "name": "Regina Salas",
+      "age": 45,
+      "caste": "OBC",
+      "income": 95833,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 125925279422,
+      "name": "Ashley Marsh",
+      "age": 70,
+      "caste": "SC",
+      "income": 79988,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 678146515225,
+      "name": "Angel Larson",
+      "age": 55,
+      "caste": "ST",
+      "income": 65607,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 971658871053,
+      "name": "David Patel",
+      "age": 40,
+      "caste": "OBC",
+      "income": 20413,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 953714784115,
+      "name": "John Decker",
+      "age": 27,
+      "caste": "ST",
+      "income": 81739,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 927793742624,
+      "name": "Katherine Davis",
+      "age": 51,
+      "caste": "OBC",
+      "income": 94091,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 152647270632,
+      "name": "Caitlin Hall",
+      "age": 36,
+      "caste": "SC",
+      "income": 18167,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 687259425099,
+      "name": "Jessica Shaw",
+      "age": 64,
+      "caste": "ST",
+      "income": 57790,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 289137242546,
+      "name": "Paul Long",
+      "age": 77,
+      "caste": "OBC",
+      "income": 69659,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 950488464262,
+      "name": "Jason Martinez",
+      "age": 39,
+      "caste": "ST",
+      "income": 78871,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 677415229033,
+      "name": "Andrew Glenn",
+      "age": 60,
+      "caste": "General",
+      "income": 28612,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 659350042404,
+      "name": "Kelly Jones",
+      "age": 39,
+      "caste": "SC",
+      "income": 24354,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 234248112453,
+      "name": "Jerry Fitzgerald",
+      "age": 24,
+      "caste": "ST",
+      "income": 95294,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 837941201020,
+      "name": "Jeffrey Gray",
+      "age": 65,
+      "caste": "ST",
+      "income": 18332,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 936441179989,
+      "name": "Matthew Carey",
+      "age": 76,
+      "caste": "General",
+      "income": 98008,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 600018137027,
+      "name": "Linda Cole",
+      "age": 33,
+      "caste": "OBC",
+      "income": 69402,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 645083108126,
+      "name": "Lindsay Sutton",
+      "age": 31,
+      "caste": "SC",
+      "income": 90922,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 419941035168,
+      "name": "Steven Craig",
+      "age": 76,
+      "caste": "ST",
+      "income": 83641,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 207493133655,
+      "name": "Jessica Thompson",
+      "age": 34,
+      "caste": "SC",
+      "income": 96241,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 503408331882,
+      "name": "Jacob Santos",
+      "age": 60,
+      "caste": "SC",
+      "income": 40293,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 382280758085,
+      "name": "Tim Obrien",
+      "age": 56,
+      "caste": "SC",
+      "income": 34342,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 537297783311,
+      "name": "Jaime Pitts",
+      "age": 48,
+      "caste": "ST",
+      "income": 95343,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 932041997951,
+      "name": "Matthew Ward",
+      "age": 57,
+      "caste": "OBC",
+      "income": 83106,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 743066059192,
+      "name": "Christopher Davis",
+      "age": 40,
+      "caste": "SC",
+      "income": 61338,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 806809207929,
+      "name": "Jennifer Perez",
+      "age": 18,
+      "caste": "General",
+      "income": 74202,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 613946415779,
+      "name": "Parker Flores",
+      "age": 47,
+      "caste": "ST",
+      "income": 66495,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 359395883181,
+      "name": "Margaret Ramos",
+      "age": 42,
+      "caste": "General",
+      "income": 81652,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 387976124437,
+      "name": "Jordan Anderson",
+      "age": 71,
+      "caste": "SC",
+      "income": 42751,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 126234099804,
+      "name": "Mary Castro",
+      "age": 22,
+      "caste": "SC",
+      "income": 55317,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 532735011869,
+      "name": "Trevor Parker",
+      "age": 44,
+      "caste": "SC",
+      "income": 81802,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 153612333107,
+      "name": "Miss Julie Hayes",
+      "age": 78,
+      "caste": "General",
+      "income": 14843,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 717638492263,
+      "name": "Carlos Perez",
+      "age": 34,
+      "caste": "General",
+      "income": 81663,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 852897320091,
+      "name": "Kristi Haney",
+      "age": 79,
+      "caste": "SC",
+      "income": 84672,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 633894831574,
+      "name": "Samuel Foster",
+      "age": 41,
+      "caste": "ST",
+      "income": 90758,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 941457406172,
+      "name": "Amber Sanchez",
+      "age": 48,
+      "caste": "ST",
+      "income": 41077,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 278652454387,
+      "name": "Alexander Ortiz",
+      "age": 31,
+      "caste": "OBC",
+      "income": 85624,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 786462430120,
+      "name": "Craig Hernandez",
+      "age": 72,
+      "caste": "SC",
+      "income": 74976,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 496385007517,
+      "name": "Faith Mooney",
+      "age": 21,
+      "caste": "ST",
+      "income": 75712,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 521883403685,
+      "name": "Margaret Webb",
+      "age": 36,
+      "caste": "ST",
+      "income": 51660,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 269896154469,
+      "name": "Kevin Freeman",
+      "age": 26,
+      "caste": "SC",
+      "income": 44144,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 355672856327,
+      "name": "Nicole Ward",
+      "age": 53,
+      "caste": "General",
+      "income": 69280,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 735637948782,
+      "name": "Kim Greene",
+      "age": 52,
+      "caste": "ST",
+      "income": 54088,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 881598887446,
+      "name": "Ryan Kim",
+      "age": 22,
+      "caste": "SC",
+      "income": 88737,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 593687234515,
+      "name": "Daniel Jackson",
+      "age": 60,
+      "caste": "OBC",
+      "income": 32238,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 355783546450,
+      "name": "David Dorsey",
+      "age": 55,
+      "caste": "SC",
+      "income": 65450,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 531654742086,
+      "name": "Todd Ellis",
+      "age": 19,
+      "caste": "OBC",
+      "income": 52133,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 312797875276,
+      "name": "Gary Ramirez",
+      "age": 69,
+      "caste": "ST",
+      "income": 22989,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 256186215987,
+      "name": "Daniel Patterson",
+      "age": 55,
+      "caste": "ST",
+      "income": 77665,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 662955594690,
+      "name": "Natalie Chambers",
+      "age": 47,
+      "caste": "General",
+      "income": 60994,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 262020416144,
+      "name": "Justin Schneider",
+      "age": 35,
+      "caste": "SC",
+      "income": 89102,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 236635318617,
+      "name": "Dana Thompson",
+      "age": 64,
+      "caste": "General",
+      "income": 98001,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 898841901116,
+      "name": "Benjamin Parrish",
+      "age": 49,
+      "caste": "SC",
+      "income": 83334,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 192087779300,
+      "name": "Mary Mcdowell",
+      "age": 50,
+      "caste": "ST",
+      "income": 10717,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 897132292064,
+      "name": "Morgan Hines",
+      "age": 64,
+      "caste": "General",
+      "income": 54977,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 238495858276,
+      "name": "Mrs. Julie Wilson",
+      "age": 43,
+      "caste": "OBC",
+      "income": 12089,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 914931484629,
+      "name": "Julie Long",
+      "age": 24,
+      "caste": "OBC",
+      "income": 47254,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 840887521822,
+      "name": "Margaret White",
+      "age": 33,
+      "caste": "OBC",
+      "income": 65396,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 705927250973,
+      "name": "Jacob Lopez",
+      "age": 50,
+      "caste": "General",
+      "income": 31151,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 530566666128,
+      "name": "Steven Shields",
+      "age": 20,
+      "caste": "General",
+      "income": 96059,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 432836920547,
+      "name": "Mr. Stephen Harris",
+      "age": 44,
+      "caste": "General",
+      "income": 70129,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 643853058184,
+      "name": "Michael Ruiz",
+      "age": 30,
+      "caste": "General",
+      "income": 86057,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 223109786444,
+      "name": "Rebecca Brooks",
+      "age": 38,
+      "caste": "ST",
+      "income": 71981,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 825731212473,
+      "name": "Spencer Owen",
+      "age": 77,
+      "caste": "General",
+      "income": 45763,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 215413138718,
+      "name": "Mrs. Megan Mcguire MD",
+      "age": 77,
+      "caste": "General",
+      "income": 18629,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 290014020698,
+      "name": "Lisa Moss",
+      "age": 45,
+      "caste": "General",
+      "income": 82409,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 996007862561,
+      "name": "Timothy Moss",
+      "age": 67,
+      "caste": "OBC",
+      "income": 98948,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 418579631843,
+      "name": "Heidi Marshall",
+      "age": 45,
+      "caste": "ST",
+      "income": 75794,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 845991657985,
+      "name": "Marc Johnson",
+      "age": 54,
+      "caste": "SC",
+      "income": 84133,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 577089008042,
+      "name": "Amanda Mitchell",
+      "age": 50,
+      "caste": "SC",
+      "income": 52932,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 586955056302,
+      "name": "Ronald Smith DVM",
+      "age": 60,
+      "caste": "OBC",
+      "income": 11072,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 159397380497,
+      "name": "David Martin",
+      "age": 29,
+      "caste": "SC",
+      "income": 11259,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 463749032310,
+      "name": "Joshua Brown",
+      "age": 35,
+      "caste": "ST",
+      "income": 16876,
+      "land_ownership": true,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 374519502419,
+      "name": "Connor Dodson",
+      "age": 49,
+      "caste": "General",
+      "income": 82108,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 521678621451,
+      "name": "Jean Wheeler",
+      "age": 37,
+      "caste": "SC",
+      "income": 21671,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 442899051729,
+      "name": "Anthony Murphy DVM",
+      "age": 71,
+      "caste": "SC",
+      "income": 47497,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 563532367856,
+      "name": "Jennifer Turner DDS",
+      "age": 38,
+      "caste": "OBC",
+      "income": 79802,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 673487664682,
+      "name": "Erin Rice",
+      "age": 18,
+      "caste": "ST",
+      "income": 32846,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 913922158910,
+      "name": "Jonathan Cervantes",
+      "age": 44,
+      "caste": "ST",
+      "income": 25151,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 688611183329,
+      "name": "Carla Reed DDS",
+      "age": 69,
+      "caste": "ST",
+      "income": 51737,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": true
+    },
+    {
+      "aadhaar": 647889975537,
+      "name": "Angela Stewart",
+      "age": 78,
+      "caste": "OBC",
+      "income": 32263,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 963469740467,
+      "name": "Joshua Fisher",
+      "age": 27,
+      "caste": "SC",
+      "income": 51231,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 610257752981,
+      "name": "Michael Nichols",
+      "age": 44,
+      "caste": "General",
+      "income": 62571,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 166601187599,
+      "name": "Mr. Steven Dawson",
+      "age": 72,
+      "caste": "General",
+      "income": 23950,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 448616037061,
+      "name": "James Hamilton",
+      "age": 67,
+      "caste": "OBC",
+      "income": 94505,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 110078111402,
+      "name": "Robert Garcia",
+      "age": 31,
+      "caste": "General",
+      "income": 42153,
+      "land_ownership": false,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 435313629794,
+      "name": "Joseph Rowland",
+      "age": 23,
+      "caste": "OBC",
+      "income": 20886,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    },
+    {
+      "aadhaar": 474246186553,
+      "name": "Robert Wilcox",
+      "age": 33,
+      "caste": "General",
+      "income": 79378,
+      "land_ownership": false,
+      "housing_status": "semi-pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 806196293140,
+      "name": "Caitlin Villarreal",
+      "age": 59,
+      "caste": "ST",
+      "income": 29279,
+      "land_ownership": false,
+      "housing_status": "kutcha",
+      "eligible": true
+    },
+    {
+      "aadhaar": 820319526012,
+      "name": "Thomas Edwards",
+      "age": 54,
+      "caste": "ST",
+      "income": 48774,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 237817162120,
+      "name": "Robert Watkins",
+      "age": 41,
+      "caste": "General",
+      "income": 80631,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 369422456306,
+      "name": "Steven Martin",
+      "age": 29,
+      "caste": "ST",
+      "income": 85098,
+      "land_ownership": true,
+      "housing_status": "pucca",
+      "eligible": false
+    },
+    {
+      "aadhaar": 512271893397,
+      "name": "Jason Cruz",
+      "age": 35,
+      "caste": "ST",
+      "income": 38236,
+      "land_ownership": true,
+      "housing_status": "kutcha",
+      "eligible": false
+    }
+  ]
+}
